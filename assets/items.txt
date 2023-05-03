@@ -1,0 +1,6 @@
+Name: sword
+	Worth: 10
+	Slot: rhand
+	Effects:
+		attack: 5, 5
+***
