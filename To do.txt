@@ -1,0 +1,4 @@
+- Create system for navigating locations and buildings
+- Create system for shopping
+- Create system for stories/quests (maybe add both modes)
+- Create system for dungeon delving/combat
